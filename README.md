@@ -1,2 +1,2 @@
 # maxxpls.github.io
-site
+magnum opus
